@@ -1,3 +1,3 @@
-npx create-expo-app AwesomeProject
-cd AwesomeProject
-npm start
+npx create-expo-app AwesomeProject <br>
+cd AwesomeProject <br>
+npm start <br>
